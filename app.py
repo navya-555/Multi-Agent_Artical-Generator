@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-
+api=st.secrets('api')
 
 st.set_page_config(page_title="Generate Articles",
                     page_icon='bot.png',

@@ -1,2 +1,3 @@
 env
 chroma_hnswlib-0.7.3.dist-info
+secrets.toml
