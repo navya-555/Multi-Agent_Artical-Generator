@@ -38,7 +38,6 @@ if st.button("Generate"):
             with st.spinner('Generating Response...'):
                 # Call Crew logic
                 result = execute_crew(topic, no_words, article_style, tone)
-            st.success("Article generated successfully!")
             st.markdown(result, unsafe_allow_html=True)
         except Exception as e:
             st.error(f"An error occurred: {e}")
