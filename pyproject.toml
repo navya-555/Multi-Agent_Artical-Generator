@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "test"
+name = "multi-agent-article-generator"
 version = "0.1.0"
 description = ""
-authors = ["Sufyan <bucks.pri@gmail.com>"]
+authors = ["Your Name <you@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<=3.13"
+python = ">=3.12,<=3.13"
 crewai = "^0.86.0"
-streamlit = "^1.40.2"
 crewai-tools = "^0.17.0"
+streamlit = "^1.41.0"
 langchain-google-genai = "^2.0.6"
 
 
