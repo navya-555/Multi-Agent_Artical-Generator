@@ -21,3 +21,7 @@ A multi-agent system designed to automate the creation of high-quality articles 
 - `app.py`: Streamlit application to interact with the system.
 - `pyproject.toml`: Project dependencies and metadata.
 
+## Requirements
+- Python 3.12+
+- Poetry for dependency management
+- API keys for CrewaAI and Google GenAI
