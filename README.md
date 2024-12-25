@@ -15,4 +15,9 @@ A multi-agent system designed to automate the creation of high-quality articles 
 3. Click "Generate" to create an article. The system will research, write, and edit the article automatically.
 4. View and copy the final polished article from the UI.
 
+## File Structure
+-`agent.py`: Defines the planner, writer, and editor agents and their tasks.
+-`crew_handler.py`: Manages the interaction between agents and tasks.
+-`app.py`: Streamlit application to interact with the system.
+-`pyproject.toml`: Project dependencies and metadata.
 
