@@ -30,3 +30,6 @@ A multi-agent system designed to automate the creation of high-quality articles 
 - CrewaAI: Multi-agent orchestration.
 - Streamlit: Frontend for the application.
 - Google GenAI: Generative AI for natural language tasks.
+
+## License
+This project is licensed under the MIT License.
