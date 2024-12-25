@@ -24,4 +24,4 @@ A multi-agent system designed to automate the creation of high-quality articles 
 ## Requirements
 - Python 3.12+
 - Poetry for dependency management
-- API keys for CrewaAI and Google GenAI
+- API keys for Serper tool and Google GenAI
