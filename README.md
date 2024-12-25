@@ -25,3 +25,8 @@ A multi-agent system designed to automate the creation of high-quality articles 
 - Python 3.12+
 - Poetry for dependency management
 - API keys for Serper tool and Google GenAI
+
+## Technologies Used
+- CrewaAI: Multi-agent orchestration.
+- Streamlit: Frontend for the application.
+- Google GenAI: Generative AI for natural language tasks.
